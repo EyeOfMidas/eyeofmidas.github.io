@@ -10,3 +10,4 @@
 * [Tavern Name Generator](https://eyeofmidas.github.io/tavern-name-generator/index.html) - A random name generator for RPG tavern names
 * [Retro-Retrospective](https://eyeofmidas.github.io/retro-retrospective/index.html) - A tool that uses local storage to track sprintly retrospectives
 * [Caesar Cypher Solver](https://eyeofmidas.github.io/caesar-cypher-solver/index.html) - Will attempt to figure out the key by looking for recognizable words while brute-forcing
+* [Canvas Music Builder](https://eyeofmidas.github.io/canvas-music-builder/index.html) - a competitor to fruity loops
