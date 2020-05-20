@@ -4,4 +4,4 @@
 * [Canvas Asteroids](#)
 
 ## Web Tools
-* [Some Tool](#)
+* [Tavern Name Generator](/tavern-name-generator/index.html) - A random name generator for RPG tavern names
