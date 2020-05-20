@@ -5,6 +5,7 @@
 * [Kenney Spritesheet Parser](https://eyeofmidas.github.io/kenney-spritesheet-parser/spritesheet.html?path=assets&file=sprites.xml) - Viewer and class that loads and parses Kenney asset spritesheeets for browser development
 * [three.js 3D lit cube](https://eyeofmidas.github.io/threejs-3d-cube/index.html) - helloworld for 3D browser development
 * [Text Adventure](http://eyeofmidas.github.io/text-adventure/index.html) - simulation of a text-base console game
+* [Eightfoot JS Slots Demo](http://eyeofmidas.github.io/eightfootjs/examples/slotmachine/index.html) - an attempt to make a modular canvas game engine, slot machine demo
 
 ## Web Tools
 * [Tavern Name Generator](https://eyeofmidas.github.io/tavern-name-generator/index.html) - A random name generator for RPG tavern names
