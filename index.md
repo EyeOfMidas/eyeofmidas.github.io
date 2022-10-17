@@ -7,6 +7,7 @@
 * [Text Adventure](http://eyeofmidas.github.io/text-adventure/index.html) - simulation of a text-base console game
 * [Eightfoot JS Slots Demo](http://eyeofmidas.github.io/eightfootjs/examples/slotmachine/index.html) - an attempt to make a modular canvas game engine, slot machine demo
 * [Manual Tween JS](http://eyeofmidas.github.io/manualtween/index.html) - a simple javascript tween library that only updates manually
+* [Wave Function Collapse Maze](https://eyeofmidas.github.io/wavefc-maze/index.html) - very simple implementation of a wave function collapse algorithm
 
 ## Web Tools
 * [Tavern Name Generator](https://eyeofmidas.github.io/tavern-name-generator/index.html) - A random name generator for RPG tavern names
