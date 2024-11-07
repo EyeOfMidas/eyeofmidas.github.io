@@ -1,8 +1,10 @@
 # EyeOfMidas GitHub
 
 ## Gamedev
+* [ThreeJS Spatial Text](https://eyeofmidas.github.io/threejs-spatial-text/dist/index.html) - A demo of how to do browser fonts as spatial text in ThreeJS
 * [Canvas Asteroids](https://eyeofmidas.github.io/canvas-asteroids/asteroids.html) - The completed 1 hour kata for canvas asteroids
 * [Kenney Spritesheet Parser](https://eyeofmidas.github.io/kenney-spritesheet-parser/spritesheet.html?path=assets&file=sprites.xml) - Viewer and class that loads and parses Kenney asset spritesheeets for browser development
+* [Perlin Canvas](https://eyeofmidas.github.io/perlin-canvas-js/) - a very-not-performant infinite perlin noise generator in the browser
 * [three.js 3D lit cube](https://eyeofmidas.github.io/threejs-3d-cube/index.html) - helloworld for 3D browser development
 * [Text Adventure](http://eyeofmidas.github.io/text-adventure/index.html) - simulation of a text-base console game
 * [Eightfoot JS Slots Demo](http://eyeofmidas.github.io/eightfootjs/examples/slotmachine/index.html) - an attempt to make a modular canvas game engine, slot machine demo
